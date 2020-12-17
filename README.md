@@ -7,3 +7,5 @@ Test bench tests the BRAM with some simple sequential reads and writes.
 Following video explains how the code was created and how to use it
 
 [![FPGA BRAM verilog code](https://img.youtube.com/vi/bJ0smcbfCY0/0.jpg)](https://www.youtube.com/watch?v=bJ0smcbfCY0)
+
+Similar steps can be used to generate parametrized BRAM module for Xilinx Vivado
